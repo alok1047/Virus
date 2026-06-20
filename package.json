@@ -1,0 +1,12 @@
+{
+  "name": "thunder-hackathon-3",
+  "version": "1.0.0",
+  "description": "JavaScript-based tool that gathers system information, environment variables, and performs CRUD operations on code files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["system-info", "environment", "crud", "hackathon"],
+  "author": "",
+  "license": "ISC"
+}
